@@ -1,5 +1,5 @@
 HUGOCMD=hugo
-HUGOPTS=-t minimal
+HUGOPTS=
 
 help:
 	@echo "Targets:"
