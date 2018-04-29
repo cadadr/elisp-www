@@ -1,0 +1,13 @@
+languageCode = "en-gb"
+title = "Göktuğ's Elisp Website"
+baseurl = "http://elisp.gkayaalp.com/"
+author = "Göktuğ Kayaalp"
+uglyURLs = true
+publishDir = "../out"
+
+[Social]
+  github = "cadadr"
+
+[Params]
+  description = "My elisp"
+  footer = "this is a footer"
