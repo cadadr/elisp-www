@@ -3,7 +3,12 @@ title = "Göktuğ's Elisp Website"
 baseurl = "http://elisp.gkayaalp.com/"
 author = "Göktuğ Kayaalp"
 uglyURLs = true
-publishDir = "../out"
+publishDir = "../cadadr.github.io/elisp"
+disablePathToLower = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
+canonifyURLs = false
+relativeURLs = true
 
 [Social]
   github = "cadadr"
