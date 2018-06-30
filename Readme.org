@@ -1,5 +1,6 @@
 #+title: Hugo configuration for my elisp website.
 #+options: toc:nil
+#+category: elisp-www
 
 * Introduction
 
@@ -53,3 +54,8 @@ This package is licensed under the terms of GNU GPLv3.  See the
 Any fixes or suggestions are welcome, just open an issue on the [[https://github.com/cadadr/elisp-www][GitHub
 repo]].  Note that the source of the website content is not in this
 repo, see the [[https://github.com/cadadr/elisp][elisp]] repo instead.
+
+* Issues
+** TODO Add a proper footer
+** TODO Fix feeds
+- Link is a relative url, guess baseURL needs to be set.
